@@ -1,4 +1,3 @@
-#GABRIELA AYUMI ENDO GONDO - 04/2021
 #INTERNET DAS COISAS
 import dht
 import machine
